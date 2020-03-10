@@ -1,0 +1,13 @@
+C:\Users\AntonPylypenko\source\repos\MyCrm\CrmBl\bin\Debug\CrmBl.dll.config
+C:\Users\AntonPylypenko\source\repos\MyCrm\CrmBl\bin\Debug\CrmBl.dll
+C:\Users\AntonPylypenko\source\repos\MyCrm\CrmBl\bin\Debug\CrmBl.pdb
+C:\Users\AntonPylypenko\source\repos\MyCrm\CrmBl\bin\Debug\EntityFramework.dll
+C:\Users\AntonPylypenko\source\repos\MyCrm\CrmBl\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\AntonPylypenko\source\repos\MyCrm\CrmBl\bin\Debug\EntityFramework.xml
+C:\Users\AntonPylypenko\source\repos\MyCrm\CrmBl\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\AntonPylypenko\source\repos\MyCrm\CrmBl\obj\Debug\CrmBl.csproj.CopyComplete
+C:\Users\AntonPylypenko\source\repos\MyCrm\CrmBl\obj\Debug\CrmBl.dll
+C:\Users\AntonPylypenko\source\repos\MyCrm\CrmBl\obj\Debug\CrmBl.pdb
+C:\Users\AntonPylypenko\source\repos\MyCrm\CrmBl\obj\Debug\CrmBl.Migrations.FirstMig.resources
+C:\Users\AntonPylypenko\source\repos\MyCrm\CrmBl\obj\Debug\CrmBl.csproj.GenerateResource.cache
+C:\Users\AntonPylypenko\source\repos\MyCrm\CrmBl\obj\Debug\CrmBl.csprojAssemblyReference.cache
